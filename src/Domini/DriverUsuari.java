@@ -16,6 +16,7 @@ public class DriverUsuari {
     
     public static void main(String[] args){
         Usuari user = null;
+        
         Scanner input = new Scanner(System.in);
         String opt, auxUsername, auxPassword;
         do{
